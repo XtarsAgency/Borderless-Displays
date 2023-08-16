@@ -1,0 +1,16 @@
+name: "borderless-displays"
+repo: "xtarsagency/borderless-displays"
+minGameVersion: 136
+version: "v.10.8"
+
+displayName: "Borderless Displays"
+author: "Xtarsagency"
+subtitle: "Version: v0.10.8"
+description:
+
+'''
+A simple mindustry mod that adds Borderless displays, Can be used in multiplayer
+'''
+
+dependencies: []
+hideBrowser: false
